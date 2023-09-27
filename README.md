@@ -16,7 +16,7 @@
 <a href="https://www.java.com/ko/"><img src="https://www.cdnlogo.com/logos/j/22/java.svg" style="width:50px; height:50px;"></a> &nbsp;&nbsp;
 <a href="https://www.mysql.com/"><img src="https://www.cdnlogo.com/logos/m/47/mysql.svg" style="width:50px; height:50px;"></a> &nbsp;&nbsp;
 <a href="https://spring.io/"><img src="https://www.cdnlogo.com/logos/s/91/spring.svg" style="width:50px; height:50px;"></a> &nbsp;&nbsp;
-<a href=""><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&amp;logo=SpringSecurity&amp;logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&amp;logo=SpringBoot&amp;logoColor=white"/></a>
 <a href=""><img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&amp;logo=SpringSecurity&amp;logoColor=white"/></a>
 <br/>
 <a href="https://github.com/"><img src="https://www.cdnlogo.com/logos/g/69/github-icon.svg" style="width:50px; height:50px;"></a> &nbsp;&nbsp;
